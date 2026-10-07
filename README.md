@@ -1,6 +1,6 @@
 # Hi, I'm Rauna
 
-I work where **data science, AI and marketing** meet. I'm completing an M.Sc. in Data Science in Berlin (GPA 1.3) and have 5+ years of growth and performance marketing experience, most recently as Digital Marketing Director at TBWA\Paragon.
+I work where data science, AI and marketing meet. I'm completing an M.Sc. in Data Science in Berlin (GPA 1.3) and have 5+ years of growth and performance marketing experience, most recently as Digital Marketing Director at TBWA\Paragon.
 
 I like turning messy, real-world data into decisions people actually act on.
 
