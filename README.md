@@ -22,4 +22,4 @@ My M.Sc. capstone, built for a real client, Namibia Medical Care.
 Python · pandas · scikit-learn · XGBoost · SQL · Streamlit · Plotly · Jupyter · Gensim · TextBlob · AWS · GA4 · Looker Studio · Google Ads · Meta Ads
 
 ## Contact
-[LinkedIn](https://www.linkedin.com/in/raunanp) · Berlin, Germany
+[LinkedIn](www.linkedin.com/in/rraunanp) · Berlin, Germany
